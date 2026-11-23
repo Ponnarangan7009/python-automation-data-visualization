@@ -1,0 +1,7 @@
+test_case,execution_time,status
+Login,2.5,Pass
+Search,3.2,Pass
+Payment,5.8,Fail
+Logout,1.5,Pass
+Profile,4.2,Fail
+Dashboard,3.0,Pass

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local configuration
+.venv/
+venv/
+ENV/
+.env
+.env.*
+!.env.example
+
+# macOS and editor settings
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated reports and exports
+*.png
+*.pdf
+*.svg
+*.xlsx
+*.log

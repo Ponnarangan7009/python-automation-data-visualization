@@ -1,0 +1,12 @@
+test_case,execution_time,status
+Payment,5.8,Fail
+Profile,4.2,Fail
+Settings,6.5,Fail
+User_Management,7.2,Fail
+Remove_Product,4.8,Fail
+Cancel_Order,6.8,Fail
+Payment_Gateway,8.5,Fail
+Upload_Image,5.5,Fail
+API_Authentication,6.2,Fail
+Database_Validation,5.9,Fail
+Browser_Compatibility,7.5,Fail
